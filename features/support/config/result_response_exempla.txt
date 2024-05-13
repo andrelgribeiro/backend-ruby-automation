@@ -1,0 +1,72 @@
+{"products":
+[
+    {"adquirirCartao":false,"percentualCartao":0,"id":217,"nome":"Multi - Boas Festas","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":99999,"nome":"VR Transporte","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":203,"nome":"Compras","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":20180,"nome":"Midia","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":212,"nome":"Multi - Alimentação","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":680,"nome":"Nutrição","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":20151,"nome":"Essencial","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":20157,"nome":"Corporativo - Anual","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":20152,"nome":"Gerencial","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":607,"nome":"SVA Odonto","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":20171,"nome":"Universo do Tempo","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false},
+    {"adquirirCartao":false,"percentualCartao":0,"id":241,"nome":"Confraternização","exibirRede":false,"produtoRefeicao":false,"produtoAlimentacao":false}
+],
+    "operatingDays":
+    [
+        {"key":1,"name":"FAIXA_1","label":"Segunda a domingo"},
+        {"key":2,"name":"FAIXA_2","label":"Segunda a sexta-feira"},
+        {"key":3,"name":"FAIXA_3","label":"Segunda a sábado"},
+        {"key":4,"name":"FAIXA_4","label":"Terça a domingo"},
+        {"key":5,"name":"FAIXA_5","label":"Sábado e domingo"}
+    ],
+"typeOfEstablishment":
+[
+    {"key":"REFEICAO|PIZZARIA","name":"PIZZARIA","label":"Refeição - Pizzaria"},
+    {"key":"REFEICAO|CHURRASC","name":"CHURRASCARIA","label":"Refeição - Churrascaria"},
+    {"key":"REFEICAO|RESTAURANT","name":"RESTAURANTE","label":"Refeição - Restaurante"},
+    {"key":"REFEICAO|LANCHONETE","name":"LANCHONETE","label":"Refeição - Lanchonete"},
+    {"key":"REFEICAO|BAR","name":"BAR","label":"Refeição - Bar"},
+    {"key":"REFEICAO|OUTROS","name":"OUTROS_REFEICAO","label":"Refeição - Outros"},
+    {"key":"REFEICAO|FASTFOOD","name":"FAST_FOOD","label":"Refeição - Fast-Food"},
+    {"key":"REFEICAO|PADARIA","name":"PADARIA_REFEICAO","label":"Refeição - Padaria"},
+    {"key":"ALIMENT|MERCADO","name":"MERCADO","label":"Alimentação - Mercado"},
+    {"key":"ALIMENT|ACOUGUE","name":"ACOUGUE","label":"Alimentação - Açougue"},
+    {"key":"ALIMENT|EMPORIO","name":"EMPORIO","label":"Alimentação - Empório"},
+    {"key":"REFEICAO|FRANCESA","name":"FRANCESA","label":"Refeição - Francesa"},
+    {"key":"REFEICAO|FROZENYOGU","name":"FROZEN_YOGURTS","label":"Refeição - Frozen Yogurts"},
+    {"key":"REFEICAO|GALETERIA","name":"GALETERIA","label":"Refeição - Galeteria"},
+    {"key":"REFEICAO|HAMBURGUER","name":"HAMBUERGUERIA","label":"Refeição - Hamburgueria"},
+    {"key":"REFEICAO|INDIANA","name":"INDIANA","label":"Refeição - Indiana"},
+    {"key":"REFEICAO|INTERNACIO","name":"INTERNACIONAL","label":"Refeição - Internacional"},
+    {"key":"REFEICAO|ITALIANA","name":"ITALIANA","label":"Refeição - Italiana"},
+    {"key":"REFEICAO|VEGETARIAN","name":"VEGETARIANOS","label":"Refeição - Vegetarianos"}
+],
+"videos":
+[
+    {"label":"VIDEO_INFORME_DE_RENDIMENTOS","key":"https://www.youtube.com/embed/e1zoj8ypNmU?rel\u003d0"},
+    {"label":"VIDEO_HOME_BENEFICIARIO","key":"https://www.youtube.com/embed/89ZEdJ7bAXQ?rel\u003d0"},
+    {"label":"VIDEO_HOME_EC","key":"https://www.youtube.com/embed/EnZtCkW5z2s?rel\u003d0"},
+    {"label":"VIDEO_REEMBOLSO","key":"https://www.youtube.com/embed/e1zoj8ypNmU?rel\u003d0"},
+    {"label":"VIDEO_DASHBOARD","key":"https://www.youtube.com/embed/d3r6eIvma7U?rel\u003d0"},
+    {"label":"VIDEO_DADOS_DO_ESTABELECIMENTO","key":"https://www.youtube.com/embed/e1zoj8ypNmU?rel\u003d0"}
+],
+"dominios":
+{
+    "TIPO_LOGRADOURO":
+    [
+        {"key":0,"name":"ACESSO","label":"Acesso"},
+        {"key":1,"name":"AL","label":"Alameda"},
+        {"key":2,"name":"AV","label":"Avenida"},
+        {"key":3,"name":"BECO","label":"Beco"},
+        {"key":4,"name":"BVD","label":"Boulevard"},
+        {"key":24,"name":"VIELA","label":"Viela"},
+        {"key":25,"name":"VILA","label":"Vila"}
+    ],
+    "SEXO":
+    [
+        {"key":"F","name":"FEMININO","label":"Feminino"},{"key":"M","name":"MASCULINO","label":"Masculino"}
+    ]
+}
+}
